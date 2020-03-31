@@ -4,7 +4,7 @@ from time import monotonic
 
 
 
-bot = telebot.TeleBot('1089871348:AAHc4mtSCdmU3cLXMRPzBcwhYWyMehAkK7o')
+bot = telebot.TeleBot('xxx')
 
 
 def grafik_degurstv(message):
